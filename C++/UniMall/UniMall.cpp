@@ -14,6 +14,7 @@ int main()
 	adidasStore.addItem(Item("Sneakers", 10, 999975));
 	adidasStore.displayItemList();
 
+
 	MallGuest guest1 = MallGuest("QWERTY");
 
 	guest1.entetStore(adidasStore);
