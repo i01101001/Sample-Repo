@@ -14,7 +14,7 @@ int main()
 	adidasStore.addItem(Item("Sneakers", 10, 999975));
 	adidasStore.displayItemList();
 
-	MallGuest guest1 = MallGuest("Paolo");
+	MallGuest guest1 = MallGuest("ASDFGH");
 
 	guest1.entetStore(adidasStore);
 	guest1.purchaseItem(adidasStore.getItemAtIndex(0));
