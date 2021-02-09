@@ -1,0 +1,2 @@
+D:\Projects\Sample Repo\Sample-Repo\C++\UniMall\Debug\UniMall.exe
+D:\Projects\Sample Repo\Sample-Repo\C++\UniMall\Debug\UniMall.pdb

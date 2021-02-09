@@ -1,0 +1,3 @@
+﻿  MallGuest.cpp
+D:\Projects\Sample Repo\Sample-Repo\C++\UniMall\MallGuest.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+  UniMall.vcxproj -> D:\Projects\Sample Repo\Sample-Repo\C++\UniMall\Debug\UniMall.exe
