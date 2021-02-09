@@ -19,5 +19,11 @@ int main()
 
 	guest1.entetStore(adidasStore);
 	guest1.purchaseItem(adidasStore.getItemAtIndex(0));
+
+	MallGuest guest2 = MallGuest("QWERTY");
+
+	guest2.entetStore(adidasStore);
+	guest2.purchaseItem(adidasStore.getItemAtIndex(0));
+
 }
 
