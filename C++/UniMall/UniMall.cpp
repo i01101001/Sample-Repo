@@ -7,7 +7,7 @@
 using namespace std;
 int main()
 {
-	Store adidasStore = Store("Adidas");
+	Store adidasStore = Store("Nike");
 	adidasStore.addItem(Item("Sneakers", 10, 1200.75));
 	adidasStore.addItem(Item("Shirt", 6, 120.75));
 	adidasStore.addItem(Item("Cap", 7, 987));
