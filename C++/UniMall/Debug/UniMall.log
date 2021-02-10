@@ -1,3 +1,10 @@
-﻿  MallGuest.cpp
-D:\Projects\Sample Repo\Sample-Repo\C++\UniMall\MallGuest.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+﻿  UniMall.cpp
+D:\Projects\Sample Repo\Sample-Repo\C++\UniMall\UniMall.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\Sample Repo\Sample-Repo\C++\UniMall\UniMall.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\Sample Repo\Sample-Repo\C++\UniMall\UniMall.cpp(68,16): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\Sample Repo\Sample-Repo\C++\UniMall\UniMall.cpp(82,20): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\Sample Repo\Sample-Repo\C++\UniMall\UniMall.cpp(109,20): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\Sample Repo\Sample-Repo\C++\UniMall\UniMall.cpp(121,40): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Projects\Sample Repo\Sample-Repo\C++\UniMall\UniMall.cpp(70): warning C4715: 'getItemAtIndexForStore': not all control paths return a value
+  LINK : D:\Projects\Sample Repo\Sample-Repo\C++\UniMall\Debug\UniMall.exe not found or not built by the last incremental link; performing full link
   UniMall.vcxproj -> D:\Projects\Sample Repo\Sample-Repo\C++\UniMall\Debug\UniMall.exe
